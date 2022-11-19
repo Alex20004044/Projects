@@ -1,4 +1,5 @@
-# Achievements
+# Projects
+A set of projects I have released
 
 ## Apps
 Electric Field Simulation:
