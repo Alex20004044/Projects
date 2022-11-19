@@ -1,12 +1,28 @@
 # Projects
-A set of projects I have released
+A set of projects released with my participation.  
+Also this list includes my own projects and achievements in software development.
+
+## Games
+Game set released with XZone Games studio:
+https://play.google.com/store/apps/dev?id=4906429197770001205&hl=ru&gl=
+
+### Best projects
+
+Crazy Harvest (Crush Master):
+https://play.google.com/store/apps/details?id=crazy.harvest.tractor.farm.plants.crush.master
+
+LoveConnect:
+https://play.google.com/store/apps/details?id=com.xzone.loveconnection3d
+
+TeddysFiveFloor:
+https://play.google.com/store/apps/details?id=com.XZoneGames.TeddysFiveFloors
 
 ## Apps
 Electric Field Simulation:
 https://play.google.com/store/apps/details?id=com.RubotGames.EFieldSimulation&hl=ru&gl=US
 
 ## Assets
-Sparrow Interface Field
+Sparrow Interface Field:
 https://assetstore.unity.com/packages/tools/utilities/sparrow-interface-field-231516
 
 ## Cources:
