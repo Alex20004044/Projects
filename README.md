@@ -6,7 +6,7 @@ Also this list includes my own projects and achievements in software development
 Game set released with XZone Games studio:
 https://play.google.com/store/apps/dev?id=4906429197770001205&hl=ru&gl=
 
-### Best projects
+### Most interesting games
 
 Crazy Harvest (Crush Master):
 https://play.google.com/store/apps/details?id=crazy.harvest.tractor.farm.plants.crush.master
